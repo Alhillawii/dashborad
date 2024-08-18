@@ -31,13 +31,13 @@
 
                     <!-- Content Row -->
                     <div class="row">
-
-                       @yield('content')
+                    @yield('content')
+                     
                     <!-- Content Row -->
    
                 </div>
                 <!-- /.container-fluid -->
-
+                @yield('content')
             </div>
             <!-- End of Main Content -->
 

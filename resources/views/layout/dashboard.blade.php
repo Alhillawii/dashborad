@@ -1,8 +1,8 @@
 @extends('admin.index')
 
-@section('hi its me' , "Dashboard");
+@section('titleFav' , "hi itts me");
 
-@section('ayah' , "Dashboard");
+@section('Head' , "ayah");
 
 
 
